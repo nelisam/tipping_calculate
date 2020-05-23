@@ -1,5 +1,7 @@
 body {
-  background: #333 url("/images/food-bg.jpg") center center no-repeat;
+  background: #333
+    url("https://nelisam.github.io/tipping_calculator/images/food-bg.jpg")
+    center center no-repeat;
   background-size: cover;
   color: #c81001;
 }
